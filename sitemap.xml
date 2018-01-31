@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   
   <url>
-    <loc>http://khangchendzonga.github.io/page/about/</loc>
+    <loc>http://khangchendzonga.github.io//#about</loc>
   </url>
   
   <url>
-    <loc>http://khangchendzonga.github.io/categories/</loc>
+    <loc>http://khangchendzonga.github.io//#</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://khangchendzonga.github.io/page/events/</loc>
+    <loc>http://khangchendzonga.github.io//#events</loc>
   </url>
   
   <url>
-    <loc>http://khangchendzonga.github.io/</loc>
+    <loc>http://khangchendzonga.github.io//#</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://khangchendzonga.github.io/page/</loc>
+    <loc>http://khangchendzonga.github.io//#</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://khangchendzonga.github.io/tags/</loc>
+    <loc>http://khangchendzonga.github.io//#</loc>
     <priority>0</priority>
   </url>
   
