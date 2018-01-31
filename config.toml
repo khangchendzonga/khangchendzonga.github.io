@@ -1,0 +1,35 @@
+baseURL = "http://khangchendzonga.github.io/"
+languageCode = "en-us"
+title = "Himalayan Borderlands"
+theme = "ananke"
+
+[params]
+  description = '<!--[-->What do you want here, Frances?<!--]-->'
+  logo = "fa-diamond"
+  copyright = "Untitled"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
