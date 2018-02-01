@@ -4,9 +4,9 @@ title = "Himalayan Borderlands"
 theme = "dimension"
 
 [params]
-  description = '<!--[-->What do you want here, Frances?<!--]-->'
+  description = '<!--[-->Mountain cultures and travel in the Eastern Himalaya<!--]-->'
   logo = "fa-diamond"
-  copyright = "Untitled"
+  copyright = "Frances Garrett & Matt Price"
 
 [[params.social]]
   medium = "twitter"
