@@ -4,7 +4,7 @@ title = "Himalayan Borderlands"
 theme = "dimension"
 
 [params]
-  description = '<!--[-->Mountain cultures and travel in the Eastern Himalaya<!--]-->'
+  description = '<!--[-->Mountain cultures and travel histories in the Eastern Himalaya<!--]-->'
   logo = "fa-diamond"
   copyright = "Frances Garrett & Matt Price"
 
@@ -26,7 +26,7 @@ theme = "dimension"
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/khangchendzonga/"
 
 [languages]
 [languages.en]
