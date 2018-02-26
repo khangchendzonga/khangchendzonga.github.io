@@ -8,7 +8,7 @@ author : ["Frances Garrett"]
 
 **Kikee D. Bhutia**, PhD Candidate at the University of Tartu and Visiting Doctoral Student at the University of Toronto
 
-**Bissel Room 417, 140 St George St, University of Toronto**
+**[Bissel Room 417, 140 St George St, University of Toronto](https://www.google.ca/maps/place/Claude+T.+Bissell+Building/@43.6649961,-79.3990758,15z/data=!4m5!3m4!1s0x0:0x2b046902f54951b!8m2!3d43.6649961!4d-79.3990758)**
 
 **Tuesday Febuary 27, 2018, 10:30 am**
 
