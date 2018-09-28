@@ -2,10 +2,18 @@
 title : "Events at U of T"
 author : ["Frances Garrett"]
 ---
-## December 6-7, 2018
+## December 5-7, 2018
 
-Ruth Gamble on "An Invitation from the Guardians of the Earth: the Relationship between Reincarnation,
+Workshops with Ruth Gamble
+
+December 5: TBD
+
+December 6: "An Invitation from the Guardians of the Earth: the Relationship between Reincarnation,
 Sacred Geography and Nature on the Tibetan Plateau"
+
+December 7: "Reading: “Landscapes” from Reincarnation in Tibetan Buddhism: the Third Karmapa and the Invention of a Tradition"
+
+Dr. Ruth Gamble (Latrobe University) has research expertise in the history, cultures, religions, literature, and languages of Tibet and the Himalaya. She is particularly interested in the rapidly changing environment in this region and the effects it has on its inhabitants. Dr. Gamble was a researcher at Ludwig Maximilians University in Munich, Germany and taught Tibetan language studies and Asian Religions at the Australian National University. She was the inaugural fellow of Yale University’s Himalaya Initiative and is now a David Myers Research Fellow at La Trobe University. She is researching and writing a history of the Yarlung Tsangpo (Brahmaputra) River, and working as an environmental historian and cultural advisor in a multi-disciplinary project focused on rehabilitating the eastern Tibetan Plateau’s peatlands.
 
 ## February 27, 2018
 
