@@ -2,7 +2,10 @@
 title : "Events at U of T"
 author : ["Frances Garrett"]
 ---
+## December 6-7, 2018
 
+Ruth Gamble on "An Invitation from the Guardians of the Earth: the Relationship between Reincarnation,
+Sacred Geography and Nature on the Tibetan Plateau"
 
 ## February 27, 2018
 
