@@ -12,7 +12,7 @@ Anna has a Ph.D. in Anthropology from the School of Oriental and African Studies
 
 ## Larissa Fardelos
 
-Larissa is a PhD student with the Department for the Study of Religion at the University of Toronto. Her research considers women in contemporary and globalizing Buddhist organizations, particularly focusing on the engagements and resistances to transnational feminism, humanitarianism, and women’s empowerment.
+Larissa is a Ph.D. student with the Department for the Study of Religion at the University of Toronto. Her research considers women in contemporary and globalizing Buddhist organizations, particularly focusing on the engagements and resistances to transnational feminism, humanitarianism, and women’s empowerment.
 
 ## Frances Garrett
 
