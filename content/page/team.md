@@ -28,7 +28,6 @@ In 2014, he came to Nova Scotia, Halifax, where he lived for three years working
 
 ## Faraz Khoshbakhtian
 
-
 ## Molly Mignault
 
 Molly is a graduate student at the University of Toronto in the Department for the Study of Religion where she is doing a collaborative specialization with the School of the Environment. Her research interests are focused on the relationship between environmental preservation and natural sacred sites within South Asia. She received an Honours Bachelor of Arts from the University of Toronto in 2017 where she studied religious studies, environmental studies and geography.

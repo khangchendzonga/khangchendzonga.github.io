@@ -9,7 +9,7 @@ Workshops with Ruth Gamble
 December 5: TBD
 
 December 6: "An Invitation from the Guardians of the Earth: the Relationship between Reincarnation,
-Sacred Geography and Nature on the Tibetan Plateau" 
+Sacred Geography and Nature on the Tibetan Plateau"
 
 December 7: "Reading: “Landscapes” from Reincarnation in Tibetan Buddhism: the Third Karmapa and the Invention of a Tradition"
 

@@ -8,7 +8,7 @@ type : "post"
 class : "post first"
 ---
 
-With funding from the Canadian SSHRC Insight grant program, a five-year project entitled "Expeditions to Paradise: Sacred Travel in the Himalaya" is exploring how the world's highest mountains are constructed as 'sacred.'
+With funding from the Canadian SSHRC Insight grant program, this five-year project entitled "Expeditions to Paradise: Sacred Travel in the Himalaya" is exploring how the world's highest mountains are constructed as 'sacred.'
 
 Our goal is to map religious expression in written and oral depictions of Himalayan travel. In particular, we hope to shed light on how historical and contemporary travelogues, guidebooks and guiding discourses construct mountains as sacred, utopian, or otherwise religiously empowered; to reveal how individual transnational encounters define mountains in religious or spiritual terms, as expressed in oral histories of pilgrims, mountaineers, and residents of the Himalayan foothills; and to develop a history of Himalayan travel depicted as pilgrimage by local and international communities, contributing a globally informed perspective on sacred space and travel.
 
