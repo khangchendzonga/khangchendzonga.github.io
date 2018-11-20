@@ -19,7 +19,7 @@ env:
     - DEPLOY_BRANCH="master"
 
 install:
-  - go get -u -v github.com/spf13/hugo
+  - go get -u -v github.com/gohugoio/hugo
 
 script:
   - hugo
