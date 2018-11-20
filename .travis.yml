@@ -30,7 +30,7 @@ script:
   - mage -v test
   - mage -v check
   - mage -v hugo
-- ./hugo 
+  - ./hugo 
 
 deploy:
   provider: pages
