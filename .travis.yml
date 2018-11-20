@@ -1,12 +1,12 @@
 language: go
 
 go:
-  - 1.8
+  - 1.11
 
 sudo: false
 
 git:
-  depth: 10
+  depth: false
 
 branches:
   only:
@@ -17,12 +17,20 @@ env:
     - SOURCE_DIR="public"
     - BUILD_BRANCH="sourcefiles"
     - DEPLOY_BRANCH="master"
+    - HUGO_BUILD_TAGS="extended"
 
 install:
-  - go get -u -v github.com/gohugoio/hugo
-
+  - mkdir -p $HOME/src
+  - mv $HOME/gopath/src/github.com/gohugoio/hugo $HOME/src
+  - export TRAVIS_BUILD_DIR=$HOME/src/hugo
+  - cd $HOME/src/hugo
+  - go get github.com/magefile/mage  
 script:
-  - hugo
+  - go mod download
+  - mage -v test
+  - mage -v check
+  - mage -v hugo
+- ./hugo 
 
 deploy:
   provider: pages
@@ -30,6 +38,10 @@ deploy:
   github_token: ${GITHUB_TOKEN}
   local_dir: public
   skip_cleanup: true
-  target_branch: master
+  traget_branch: master
   on:
     branch: sourcefiles
+
+before_install:
+  - gem install asciidoctor
+  - type asciidoctor    
