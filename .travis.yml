@@ -21,16 +21,15 @@ env:
 
 install:
   - mkdir -p $HOME/src
+  - go get github.com/magefile/mage
+  - go get github.com/gohugoio/hugo
   - mv $HOME/gopath/src/github.com/gohugoio/hugo $HOME/src
-  - export TRAVIS_BUILD_DIR=$HOME/src/hugo
   - cd $HOME/src/hugo
-  - go get github.com/magefile/mage  
+  
 script:
   - go mod download
-  - mage -v test
-  - mage -v check
-  - mage -v hugo
-  - ./hugo 
+  - mage -v hugo 
+  - ./hugo -s ${TRAVIS_HOME}/gopath/src/github.com/khangchendzonga/khangchendzonga.github.io
 
 deploy:
   provider: pages
@@ -38,7 +37,7 @@ deploy:
   github_token: ${GITHUB_TOKEN}
   local_dir: public
   skip_cleanup: true
-  traget_branch: master
+  target_branch: master
   on:
     branch: sourcefiles
 
