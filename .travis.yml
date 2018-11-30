@@ -7,6 +7,8 @@ sudo: false
 
 git:
   depth: false
+  # disable the default submodule logic
+  submodules: false
 
 branches:
   only:
@@ -44,3 +46,7 @@ deploy:
 before_install:
   - gem install asciidoctor
   - type asciidoctor    
+  # Use https (public access) instead of git for git-submodules. This modifies only Travis-CI behavior!
+  # use sed to replace the SSH URL with the public URL, then init and update submodules
+  - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
+  - git submodule update --init --recursive
