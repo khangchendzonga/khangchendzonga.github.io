@@ -3,7 +3,7 @@
 
   
   <url>
-    <loc>http://khangchendzonga.github.io//#about</loc>
+    <loc>http://khangchendzonga.github.io//#_index</loc>
   </url>
   
   <url>
@@ -13,11 +13,6 @@
   
   <url>
     <loc>http://khangchendzonga.github.io//#events</loc>
-  </url>
-  
-  <url>
-    <loc>http://khangchendzonga.github.io//#</loc>
-    <priority>0</priority>
   </url>
   
   <url>
