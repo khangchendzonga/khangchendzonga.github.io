@@ -1,11 +1,10 @@
 ---
-title : "About the Project"
-author : ["Frances Garrett"]
+author : "Frances Garrett"
 draft : false
-description : "First post"
 weight : 1
 type : "post"
 class : "post first"
+banner : "banners/bg.jpg"
 ---
 
 With funding from the Canadian SSHRC Insight grant program, this five-year project entitled "Expeditions to Paradise: Sacred Travel in the Himalaya" is exploring how the world's highest mountains are constructed as 'sacred.'

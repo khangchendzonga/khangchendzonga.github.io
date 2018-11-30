@@ -1,6 +1,6 @@
 ---
 title : "Events at U of T"
-author : ["Frances Garrett"]
+author : "Frances Garrett"
 ---
 ## December 5-7, 2018
 

@@ -1,6 +1,6 @@
 ---
 title : "Team"
-author : ["Frances Garrett"]
+author : "Frances Garrett"
 ---
 ## Damien Boltauzer
 
