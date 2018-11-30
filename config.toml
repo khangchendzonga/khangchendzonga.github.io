@@ -30,7 +30,7 @@ background = "/images/bg.jpg"
     # custom_css = ["css/highlight.min.css"]
     # custom_js = []
     date_format = "Mon, Jan 2, 2006"
-    description = "Mountain Culutres and Travel Histories in the Eastern Himalaya"
+    description = "Mountain Cultures and Travel Histories in the Eastern Himalaya"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.10.0"
