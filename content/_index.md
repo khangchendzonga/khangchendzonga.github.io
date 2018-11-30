@@ -7,7 +7,7 @@ class : "post first"
 banner : "banners/bg.jpg"
 ---
 
-With funding from the Canadian SSHRC Insight grant program, this five-year project entitled "Expeditions to Paradise: Sacred Travel in the Himalaya" is exploring how the world's highest mountains are constructed as 'sacred.'
+With funding from the Canadian SSHRC Insight grant program, this five-year project (2017-2022) entitled "Expeditions to Paradise: Sacred Travel in the Himalaya" is exploring how the world's highest mountains are constructed as 'sacred.'
 
 Our goal is to map religious expression in written and oral depictions of Himalayan travel. We hope to shed light on how historical and contemporary travelogues, guidebooks and guiding discourses construct mountains as sacred, utopian, or otherwise religiously empowered; to reveal how individual transnational encounters define mountains in religious or spiritual terms, as expressed in oral histories of pilgrims, mountaineers, and residents of the Himalayan foothills; and to develop a history of Himalayan travel depicted as pilgrimage by local and international communities, contributing a globally informed perspective on sacred space and travel.
 
@@ -19,7 +19,7 @@ The project involves text-historical, archival, and oral history research in Can
 
 This project is designed around student and citizen engagement, drawing on models of public history and community-based research. From 2016-2018, Garrett and Price taught an [immersive field course](https://sikkim.hackinghistory.ca/) in Sikkim that focused on Buddhist pilgrimage travel, the influence of rivers on Himalayan cultures, and the interplay between religious institutions and environmental sustainability movements in the region.
 
-In the summer of 2017, undergraduate Study of Religion student Damien Boltauzer worked with the KCC in Yuksam on digitizing their archival materials. Over the summer of 2018, Damien Boltauzer investigated a 29km pilgrimage route (_gnas skor_) around the peak of Drilburi in the Lahaul region of northern Himachal Pradesh (near the border with Ladakh), near Keylong and the ancient gompa of Gandhola/Guru Ghantal. This pilgrimage occurs on the full moon of June. Damien is now studying and working in Nepal for the academic year.
+In the summer of 2017, undergraduate Study of Religion student Damien Boltauzer worked with the KCC in Yuksam on digitizing their archival materials. Over the summer of 2018, Damien Boltauzer investigated a 29km pilgrimage route (_gnas skor_) around the peak of Drilburi in the Lahaul region of northern Himachal Pradesh (near the border with Ladakh), near Keylong and the ancient monastery of Gandhola/Guru Ghantal. This pilgrimage occurs on the full moon of June. Damien is now studying and working in Nepal for the academic year.
 
 In 2017-18, students in Matt Price's undergraduate course at University of Toronto, [Hacking History](https://2017.hackinghistory.ca/), continued to work with the KCC leadership and staff and their archival materials. Damien Boltauzer continued to catalog the growing database of images, recordings, and archival documents. In May 2018, Garrett, Price, and six undergraduate students from University of Toronto traveled to West Sikkim to meet with KCC leadership and to lead a web development skills workshop for KCC staff and local community members.
 
