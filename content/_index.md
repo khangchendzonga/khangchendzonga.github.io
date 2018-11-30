@@ -13,4 +13,4 @@ Our primary site is Mt Khangchendzonga, straddling India and Nepal, which was re
 
 The project involves text-historical, archival, and oral history research in Canada, the US, UK, India, and Nepal. Project researchers are located at University of Toronto in Canada, and in India at the Namgyal Institute of Tibetology in Gangtok, East Sikkim, and the Khangchendzonga Conservation Committee (KCC) in Yuksam, West Sikkim.
 
-This project is funded by a Canadian SSHRC Insight grant.
+This project is funded by a grant from the Canadian Social Sciences and Humanities Research Council.
