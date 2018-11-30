@@ -13,16 +13,23 @@ background = "/images/bg.jpg"
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
+    [[menu.main]]
+        name = "Projects"
+        url = "/page/projects"
+        pre = "<i class='now-ui-icons design_app'></i>"
+        weight = 1
+
 [[menu.main]]
     name = "Team"
     url = "/page/team"
-    pre = "<i class='now-ui-icons design_app'></i>"
+    pre = "<i class='now-ui-icons media-2_sound-wave'></i>"
     weight = 1
 [[menu.main]]
     name = "Events"
     url = "/page/events"
-    pre = "<i class='now-ui-icons business_bank'></i>"
+    pre = "<i class='now-ui-icons design_app'></i>"
     weight = 1
+
 
 [params]
     background = "/images/bg.jpg"
