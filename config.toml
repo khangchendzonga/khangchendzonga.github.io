@@ -1,32 +1,44 @@
 baseURL = "http://khangchendzonga.github.io/"
 languageCode = "en-us"
 title = "Himalayan Borderlands"
-theme = "dimension"
+theme = "ananke"
+# sectionPagesMenu = "main"
 
 [params]
-  description = '<!--[-->Mountain cultures and travel histories in the Eastern Himalaya<!--]-->'
-  logo = "fa-diamond"
-  copyright = "Frances Garrett & Matt Price"
+  description = 'Mountain cultures and travel histories in the Eastern Himalaya'
+  copyright = "2018"
+  cover  = "/images/bg.jpg"
+  DateForm = "30.12.2006"
+  date_format = "30.12.2006"
+  featured_image = "/images/bg.jpg"
 
-[[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "#"
 
-[[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "#"
+[params.slider]
+  enable = true
+  manual = false
+  num_features = 4 # The slider picks up the banner images from the N most recent posts, where num_features is N.
 
-[[params.social]]
-  medium = "instagram"
-  icon = "instagram"
-  link = "#"
+[params.index]
+  picture = "/images/bg.jpg"
+  title = "Himalayan Borderlands"
+  alertbar = true
 
-[[params.social]]
-  medium = "github"
-  icon = "github"
-  link = "https://github.com/khangchendzonga/"
+[menu]
+
+  [[menu.main]]
+    identifier = "events"
+    name = "Events"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/page/events"
+    weight = -110
+
+  [[menu.main]]
+    identifier = "team"
+    name = "Team"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/page/team/"
+    weight = -100
 
 [languages]
 [languages.en]
