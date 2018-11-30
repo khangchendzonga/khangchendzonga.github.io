@@ -10,7 +10,7 @@ In development: Nepali Language Workshop at University of Toronto with Laxmi Nat
 
 In development: an intensive two-week workshop at the Kasturba Gandhi Balika Vidyalay School for Girls in Labang, West Sikkim.
 
-## December 5-7, 2018
+## December 4-7, 2018
 
 Workshops with Ruth Gamble
 
