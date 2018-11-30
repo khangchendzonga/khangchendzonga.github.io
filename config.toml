@@ -13,11 +13,11 @@ background = "/images/bg.jpg"
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
-    [[menu.main]]
-        name = "Projects"
-        url = "/page/projects"
-        pre = "<i class='now-ui-icons design_app'></i>"
-        weight = 1
+[[menu.main]]
+    name = "Projects"
+    url = "/page/projects"
+    pre = "<i class='now-ui-icons design_app'></i>"
+    weight = 1
 
 [[menu.main]]
     name = "Team"
