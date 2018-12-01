@@ -1,6 +1,8 @@
 ---
 title : "Projects"
 author : "Frances Garrett"
+type : "post"
+class : "post first"
 banner : "banners/IMG_0380.jpg"
 ---
 ## Student training and community engagement
