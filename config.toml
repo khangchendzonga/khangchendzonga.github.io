@@ -1,7 +1,7 @@
 theme = "hugo-now-ui"
 baseurl = "/"
 languageCode = "en-us"
-title = "Himalayan Borderlands: Mountain Cultures and Travel Histories in the Eastern Himalaya"
+title = "Himalayan Borderlands"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
