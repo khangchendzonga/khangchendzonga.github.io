@@ -2,7 +2,7 @@
 title : "Team"
 author : "Frances Garrett"
 ---
-## Damien Boltauzer
+<h3> Damien Boltauzer</h3>
 
 Damien is an undergraduate in Anthropology at the Department for the Study of Religion at the University of Toronto. He has a deep interest in religious/sacred spaces and geographies in the Himalayan Buddhist world. He has conducted research with the KCC in Sikkim and also in Ladakh, and he is now studying for a year in Kathmandu.
 
