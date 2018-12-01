@@ -1,6 +1,7 @@
 ---
 title : "Events"
 author : "Frances Garrett"
+banner : "banners/IMG_0234.jpg"
 ---
 ## April 2019
 
