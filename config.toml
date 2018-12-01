@@ -1,46 +1,53 @@
-theme = "hugo-now-ui"
-baseurl = "/"
+baseURL = "http://khangchendzonga.github.io/"
 languageCode = "en-us"
 title = "Himalayan Borderlands"
-googleAnalytics = ""
-disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
-background = "/images/bg.jpg"
-#enableGitInfo = true
-# publishDir = "../docs"
-# themesDir = "../.."
-
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
-
-[[menu.main]]
-    name = "Projects"
-    url = "/page/projects"
-    pre = "<i class='now-ui-icons media-2_sound-wave'></i>"
-    weight = 1
-
-[[menu.main]]
-    name = "Team"
-    url = "/page/team"
-    pre = "<i class='now-ui-icons location_world'></i>"
-    weight = 1
-[[menu.main]]
-    name = "Events"
-    url = "/page/events"
-    pre = "<i class='now-ui-icons ui-1_calendar-60'></i>"
-    weight = 1
-
+theme = "ananke"
+# sectionPagesMenu = "main"
 
 [params]
-    background = "/images/bg.jpg"
-    tint = "blue"
-    # custom_css = ["css/highlight.min.css"]
-    # custom_js = []
-    date_format = "Mon, Jan 2, 2006"
-    description = "Mountain Cultures and Travel Histories in the Eastern Himalaya"
+  description = 'Mountain cultures and travel histories in the Eastern Himalaya'
+  copyright = "2018"
+  cover  = "/images/bg.jpg"
+  DateForm = "30.12.2006"
+  date_format = "30.12.2006"
+  featured_image = "/images/bg.jpg"
 
-    # options for highlight.js (version, additional languages, and theme)
-    highlightjsVersion = "9.10.0"
-    highlightCDN = "//cdn.bootcss.com"
-    highlightjsLang = ["r", "yaml"]
-    highlightjsTheme = "github"
+
+[params.slider]
+  enable = true
+  manual = false
+  num_features = 4 # The slider picks up the banner images from the N most recent posts, where num_features is N.
+
+[params.index]
+  picture = "/images/bg.jpg"
+  title = "Himalayan Borderlands"
+  alertbar = true
+
+[menu]
+
+[[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  pre = "<i class='fa fa-heart'></i>"
+  url = "/page/projects"
+  weight = -120
+
+  [[menu.main]]
+    identifier = "events"
+    name = "Events"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/page/events"
+    weight = -110
+
+  [[menu.main]]
+    identifier = "team"
+    name = "Team"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/page/team/"
+    weight = -100
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1

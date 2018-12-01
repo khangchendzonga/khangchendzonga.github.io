@@ -14,15 +14,22 @@ background = "/images/bg.jpg"
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
+    name = "Projects"
+    url = "/page/projects"
+    pre = "<i class='now-ui-icons media-2_sound-wave'></i>"
+    weight = 1
+
+[[menu.main]]
     name = "Team"
     url = "/page/team"
-    pre = "<i class='now-ui-icons design_app'></i>"
+    pre = "<i class='now-ui-icons location_world'></i>"
     weight = 1
 [[menu.main]]
     name = "Events"
     url = "/page/events"
-    pre = "<i class='now-ui-icons business_bank'></i>"
+    pre = "<i class='now-ui-icons ui-1_calendar-60'></i>"
     weight = 1
+
 
 [params]
     background = "/images/bg.jpg"
@@ -30,14 +37,10 @@ background = "/images/bg.jpg"
     # custom_css = ["css/highlight.min.css"]
     # custom_js = []
     date_format = "Mon, Jan 2, 2006"
-    description = "Mountain Culutres and Travel Histories in the Eastern Himalaya"
+    description = "Mountain Cultures and Travel Histories in the Eastern Himalaya"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.10.0"
     highlightCDN = "//cdn.bootcss.com"
     highlightjsLang = ["r", "yaml"]
     highlightjsTheme = "github"
-
-
-    
-
