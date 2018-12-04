@@ -19,7 +19,7 @@ Workshops with Ruth Gamble
 
 December 4: Outdoor Walk - “River Histories, Cultures, and Environments: Walking the Humber River”
 
-Join U of T faculty, students, community members, and our guest Ruth Gamble, for a walking tour of the Humber River led by Alan Colley of [Toronto Aboriginal Eco Tours](http://www.taet.ca/).
+Join U of T faculty, students, community members, and our guest Ruth Gamble, for a walking tour of the Humber River led by Alan Colley of [Toronto Aboriginal Eco Tours](https://oala.ca/ground_issue/ground-39-spontaneous/tours-indigenous-teaching/).
 
 December 5: Lecture and discussion on “Concreting the World's Highest River: Environmental, Cultural and Geopolitical Impacts of Developing the Yarlung Tsangpo (Brahmaputra) River”
 
