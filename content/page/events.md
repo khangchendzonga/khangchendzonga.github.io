@@ -7,7 +7,7 @@ banner : "banners/IMG_0234.jpg"
 ---
 ## April 2019
 
-In development: Nepali Language Workshop at University of Toronto with Laxmi Nath Shrestha
+In development: Nepali Language Workshop at University of Toronto with Laxmi Nath Shrestha.
 
 ## February 2019
 
@@ -18,6 +18,8 @@ In development: an intensive two-week workshop at the Kasturba Gandhi Balika Vid
 Workshops with Ruth Gamble
 
 December 4: Outdoor Walk - “River Histories, Cultures, and Environments: Walking the Humber River”
+
+Join U of T faculty, students, community members, and our guest Ruth Gamble, for a walking tour of the Humber River led by Alan Colley of [Toronto Aboriginal Eco Tours](http://www.taet.ca/).
 
 December 5: Lecture and discussion on “Concreting the World's Highest River: Environmental, Cultural and Geopolitical Impacts of Developing the Yarlung Tsangpo (Brahmaputra) River”
 
