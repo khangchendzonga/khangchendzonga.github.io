@@ -2,6 +2,7 @@ baseURL = "http://khangchendzonga.github.io/"
 languageCode = "en-us"
 title = "Himalayan Borderlands"
 theme = "ananke"
+buildFuture = true
 # sectionPagesMenu = "main"
 
 [params]
