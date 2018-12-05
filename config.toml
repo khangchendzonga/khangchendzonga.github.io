@@ -2,6 +2,7 @@ baseURL = "http://khangchendzonga.github.io/"
 languageCode = "en-us"
 title = "Himalayan Borderlands"
 theme = "ananke"
+buildFuture = true
 # sectionPagesMenu = "main"
 
 [params]
@@ -29,14 +30,14 @@ theme = "ananke"
   identifier = "projects"
   name = "Projects"
   pre = "<i class='fa fa-heart'></i>"
-  url = "/page/projects"
+  url = "/projects"
   weight = -120
 
   [[menu.main]]
     identifier = "events"
     name = "Events"
     pre = "<i class='fa fa-heart'></i>"
-    url = "/page/events"
+    url = "/events"
     weight = -110
 
   [[menu.main]]

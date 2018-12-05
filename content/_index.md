@@ -2,7 +2,6 @@
 author : "Frances Garrett"
 draft : false
 weight : 1
-type : "post"
 class : "post first"
 banner : "banners/bg.jpg"
 ---
