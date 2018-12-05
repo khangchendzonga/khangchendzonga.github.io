@@ -16,8 +16,21 @@
   </url>
   
   <url>
+    <loc>http://khangchendzonga.github.io/projects/histories/</loc>
+  </url>
+  
+  <url>
     <loc>http://khangchendzonga.github.io/page/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://khangchendzonga.github.io/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://khangchendzonga.github.io/projects/communities/</loc>
   </url>
   
   <url>

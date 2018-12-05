@@ -1,27 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Himalayan Borderlands</title>
-    <link>http://khangchendzonga.github.io/</link>
-    <description>Recent content on Himalayan Borderlands</description>
+    <title>Projects on Himalayan Borderlands</title>
+    <link>http://khangchendzonga.github.io/projects/</link>
+    <description>Recent content in Projects on Himalayan Borderlands</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://khangchendzonga.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://khangchendzonga.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Events</title>
-      <link>http://khangchendzonga.github.io/page/events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://khangchendzonga.github.io/page/events/</guid>
-      <description>April 2019 In development: Nepali Language Workshop at University of Toronto with Laxmi Nath Shrestha.
-February 2019 In development: an intensive two-week workshop at the Kasturba Gandhi Balika Vidyalay School for Girls in Labang, West Sikkim.
-December 4-7, 2018 Workshops with Ruth Gamble
-December 4: Outdoor Walk - “River Histories, Cultures, and Environments: Walking the Humber River”
-Join U of T faculty, students, community members, and our guest Ruth Gamble, for a walking tour of the Humber River led by Alan Colley of Toronto Aboriginal Eco Tours.</description>
-    </item>
     
     <item>
       <title>Histories</title>
@@ -41,16 +28,6 @@ In Sikkim, Anna Balikci-Denjongpa is working with monks from Pemayangtse monaste
       <guid>http://khangchendzonga.github.io/projects/communities/</guid>
       <description>Student training and community engagement This project is designed around student and citizen engagement, drawing on models of public history and community-based research. From 2016-2018, Garrett and Price taught an immersive field course in Sikkim that focused on Buddhist pilgrimage travel, the influence of rivers on Himalayan cultures, and the interplay between religious institutions and environmental sustainability movements in the region.
 In the summer of 2017, undergraduate Study of Religion student Damien Boltauzer worked with the KCC in Yuksam on digitizing their archival materials.</description>
-    </item>
-    
-    <item>
-      <title>Team</title>
-      <link>http://khangchendzonga.github.io/page/team/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://khangchendzonga.github.io/page/team/</guid>
-      <description>Damien Boltauzer Damien is an undergraduate in Anthropology at the Department for the Study of Religion at the University of Toronto. He has a deep interest in religious/sacred spaces and geographies in the Himalayan Buddhist world. He has conducted research with the KCC in Sikkim and also in Ladakh, and he is now studying for a year in Kathmandu.
-Anna Balikci Denjongpa Anna has a Ph.D. in Anthropology from the School of Oriental and African Studies.</description>
     </item>
     
   </channel>
