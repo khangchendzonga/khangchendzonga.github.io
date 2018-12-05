@@ -48,6 +48,13 @@ buildFuture = true
     url = "/page/team/"
     weight = -100
 
+    [[menu.main]]
+      identifier = "gallery"
+      name = "Gallery"
+      pre = "<i class='fa fa-heart'></i>"
+      url = "/gallery.md"
+      weight = -110
+
 [languages]
 [languages.en]
 languageName = "English"
