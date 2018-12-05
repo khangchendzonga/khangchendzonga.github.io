@@ -6,10 +6,40 @@
     <description>Recent content in Events on Himalayan Borderlands</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://khangchendzonga.github.io/events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nepali Language Workshop</title>
+      <link>http://khangchendzonga.github.io/events/nepali/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://khangchendzonga.github.io/events/nepali/</guid>
+      <description>In development: Nepali Language Workshop at University of Toronto with Laxmi Nath Shrestha.</description>
+    </item>
+    
+    <item>
+      <title>KGBV Workshop</title>
+      <link>http://khangchendzonga.github.io/events/kgbv/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://khangchendzonga.github.io/events/kgbv/</guid>
+      <description>February 2019 In development: an intensive two-week workshop at the Kasturba Gandhi Balika Vidyalay School for Girls in Labang, West Sikkim.</description>
+    </item>
+    
+    <item>
+      <title>Workshops with Ruth Gamble</title>
+      <link>http://khangchendzonga.github.io/events/gamble/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://khangchendzonga.github.io/events/gamble/</guid>
+      <description>December 4: Outdoor Walk - “River Histories, Cultures, and Environments: Walking the Humber River”
+Join U of T faculty, students, community members, and our guest Ruth Gamble, for a walking tour of the Humber River led by Alan Colley of Toronto Aboriginal Eco Tours.
+December 5: Lecture and discussion on “Concreting the World&amp;rsquo;s Highest River: Environmental, Cultural and Geopolitical Impacts of Developing the Yarlung Tsangpo (Brahmaputra) River”
+The transboundary Yarlung Tsangpo (Brahmaputra) River flows across the Tibetan Plateau at an average altitude of more than 4000 meters, before entering northeast India through the world&amp;rsquo;s deepest gorge.</description>
+    </item>
     
     <item>
       <title>Past Events</title>
@@ -19,15 +49,6 @@
       <guid>http://khangchendzonga.github.io/events/past/</guid>
       <description>February 27, 2018 Kikee D. Bhutia on &amp;ldquo;Beyul Demojong: Bhutia Kingship and the Dawn of Buddhism and Identity among the Lhopos of Sikkim&amp;rdquo;
 Kikee&amp;rsquo;s paper aimed to situate the sacred landscape of Sikkim according to belief narratives that revolve around the arrival of Guru Padmasambhava. It is believed that when Guru Padmasambhava was on his way to Tibet, he passed the Hidden Land of Demojong and sanctified the land, taming supernatural beings by turning them into the guardian deities of the land and hiding terma in different parts of the land.</description>
-    </item>
-    
-    <item>
-      <title>KGBV Workshop</title>
-      <link>http://khangchendzonga.github.io/events/kgbv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://khangchendzonga.github.io/events/kgbv/</guid>
-      <description>February 2019 In development: an intensive two-week workshop at the Kasturba Gandhi Balika Vidyalay School for Girls in Labang, West Sikkim.</description>
     </item>
     
   </channel>

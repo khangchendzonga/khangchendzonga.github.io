@@ -6,10 +6,40 @@
     <description>Recent content on Himalayan Borderlands</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://khangchendzonga.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nepali Language Workshop</title>
+      <link>http://khangchendzonga.github.io/events/nepali/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://khangchendzonga.github.io/events/nepali/</guid>
+      <description>In development: Nepali Language Workshop at University of Toronto with Laxmi Nath Shrestha.</description>
+    </item>
+    
+    <item>
+      <title>KGBV Workshop</title>
+      <link>http://khangchendzonga.github.io/events/kgbv/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://khangchendzonga.github.io/events/kgbv/</guid>
+      <description>February 2019 In development: an intensive two-week workshop at the Kasturba Gandhi Balika Vidyalay School for Girls in Labang, West Sikkim.</description>
+    </item>
+    
+    <item>
+      <title>Workshops with Ruth Gamble</title>
+      <link>http://khangchendzonga.github.io/events/gamble/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://khangchendzonga.github.io/events/gamble/</guid>
+      <description>December 4: Outdoor Walk - “River Histories, Cultures, and Environments: Walking the Humber River”
+Join U of T faculty, students, community members, and our guest Ruth Gamble, for a walking tour of the Humber River led by Alan Colley of Toronto Aboriginal Eco Tours.
+December 5: Lecture and discussion on “Concreting the World&amp;rsquo;s Highest River: Environmental, Cultural and Geopolitical Impacts of Developing the Yarlung Tsangpo (Brahmaputra) River”
+The transboundary Yarlung Tsangpo (Brahmaputra) River flows across the Tibetan Plateau at an average altitude of more than 4000 meters, before entering northeast India through the world&amp;rsquo;s deepest gorge.</description>
+    </item>
     
     <item>
       <title>Past Events</title>
@@ -29,15 +59,6 @@ Kikee&amp;rsquo;s paper aimed to situate the sacred landscape of Sikkim accordin
       <guid>http://khangchendzonga.github.io/projects/histories/</guid>
       <description>Text-historical research In Toronto, Frances Garrett, Khenpo Kunga Sherab, and Dakpa Gyatso have been studying Tibetan language guidebooks to hidden lands (sbas yul). An international workshop on &amp;ldquo;Hidden Lands in Himalayan Myth and History: Transformations of Beyul (sBas yul) through Time&amp;rdquo; was held in Toronto in December 2017, featuring thirteen paper presentations; this research is now being prepared as an edited volume.
 In Sikkim, Anna Balikci-Denjongpa is working with monks from Pemayangtse monastery on a book that documents sacred sites in the Khangchendzonga National Park and the environs.</description>
-    </item>
-    
-    <item>
-      <title>KGBV Workshop</title>
-      <link>http://khangchendzonga.github.io/events/kgbv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://khangchendzonga.github.io/events/kgbv/</guid>
-      <description>February 2019 In development: an intensive two-week workshop at the Kasturba Gandhi Balika Vidyalay School for Girls in Labang, West Sikkim.</description>
     </item>
     
     <item>
