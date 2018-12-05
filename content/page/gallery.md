@@ -6,4 +6,4 @@ class : "post first"
 banner : "banners/IMG_0380.jpg"
 ---
 
-## Project image Gallery
+{{< gallery dir="/images/gallery/" />}}
