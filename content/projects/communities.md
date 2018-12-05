@@ -1,11 +1,8 @@
 ---
-title : "Projects"
+title : "Student Training and Community Engagement"
 author : "Frances Garrett"
-type : "post"
-class : "post first"
 banner : "banners/IMG_0380.jpg"
 ---
-## Student training and community engagement
 
 This project is designed around student and citizen engagement, drawing on models of public history and community-based research. From 2016-2018, Garrett and Price taught an [immersive field course](https://sikkim.hackinghistory.ca/) in Sikkim that focused on Buddhist pilgrimage travel, the influence of rivers on Himalayan cultures, and the interplay between religious institutions and environmental sustainability movements in the region.
 
@@ -15,8 +12,3 @@ In 2017-18, students in Matt Price's undergraduate course at University of Toron
 
 The partnership between U of T and the KCC has led to the beginnings in 2018 of a project called [Code at the Edge] (https://code-at-the-edge.github.io/), which is developing a web development curriculum appropriate to the mountain region, to be piloted at the Kasturba Gandhi Balika Vidyalay School for Girls in Labang, West Sikkim.
 
-## Text-historical research
-
-In Toronto, Frances Garrett, Khenpo Kunga Sherab, and Dakpa Gyatso have been studying Tibetan language guidebooks to hidden lands (_sbas yul_). An international workshop on ["Hidden Lands in Himalayan Myth and History: Transformations of Beyul (sBas yul) through Time"](http://buddhiststudies.utoronto.ca/events/hiddenlands/) was held in Toronto in December 2017, featuring thirteen paper presentations; this research is now being prepared as an edited volume.
-
-In Sikkim, Anna Balikci-Denjongpa is working with monks from Pemayangtse monastery on documenting sacred sites in the Khangchendzonga National Park and the environs.
