@@ -5266,8 +5266,13 @@ code, .code {
   .measure-l {
     max-width: 30em;
   }
+  /* update for my own preferences */
   .measure-wide-l {
-    max-width: 34em;
+      max-width: 34em;
+  }
+
+  measure-xwide-l {
+      max-width: 50em;
   }
   .measure-narrow-l {
     max-width: 20em;
