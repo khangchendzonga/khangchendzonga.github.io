@@ -33,12 +33,12 @@ buildFuture = true
   url = "/projects"
   weight = -120
 
-  [[menu.main]]
-    identifier = "events"
-    name = "Events"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/events"
-    weight = -110
+#  [[menu.main]]
+#    identifier = "events"
+#    name = "Events"
+#    pre = "<i class='fa fa-heart'></i>"
+#    url = "/events"
+#    weight = -110
 
   [[menu.main]]
     identifier = "team"
@@ -47,6 +47,15 @@ buildFuture = true
     pre = "<i class='fa fa-road'></i>"
     url = "/page/team/"
     weight = -100
+
+    [[menu.main]]
+      identifier = "events"
+      name = "Events"
+      post = "<span class='alert'>New!</span>"
+      pre = "<i class='fa fa-road'></i>"
+      url = "/page/events/"
+      weight = -110
+
 
   #  [[menu.main]]
   #    identifier = "gallery"
