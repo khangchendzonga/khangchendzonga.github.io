@@ -21,7 +21,7 @@ buildFuture = true
 
 [params.index]
   picture = "/images/bg.jpg"
-  title = "Himalayan Borderlands"
+  title = "Mountain cultures and travel histories in the Eastern Himalaya"
   alertbar = true
 
 [menu]
