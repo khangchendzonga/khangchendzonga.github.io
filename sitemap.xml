@@ -23,15 +23,6 @@
   </url>
   
   <url>
-    <loc>http://khangchendzonga.github.io/events/past/</loc>
-    <lastmod>2018-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://khangchendzonga.github.io/projects/</loc>
-  </url>
-  
-  <url>
     <loc>http://khangchendzonga.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -42,20 +33,16 @@
   </url>
   
   <url>
-    <loc>http://khangchendzonga.github.io/page/gallery/</loc>
+    <loc>http://khangchendzonga.github.io/page/events/</loc>
   </url>
   
   <url>
-    <loc>http://khangchendzonga.github.io/projects/histories/</loc>
+    <loc>http://khangchendzonga.github.io/page/gallery/</loc>
   </url>
   
   <url>
     <loc>http://khangchendzonga.github.io/page/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://khangchendzonga.github.io/projects/communities/</loc>
   </url>
   
   <url>
