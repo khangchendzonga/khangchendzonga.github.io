@@ -10,10 +10,6 @@ Damien is an undergraduate in Anthropology at the Department for the Study of Re
 
 Anna has a Ph.D. in Anthropology from the School of Oriental and African Studies. She is a Canadian citizen now working in Sikkim as NIT Research Coordinator and editor of the Bulletin of Tibetology. An anthropologist whose research interests centre on Sikkim’s indigenous cultures, history and the medium of ethnographic film, her doctoral research was funded by SSHRC (1994-1998) and later published as Lamas, Shamans and Ancestors: Village Religion in Sikkim (Brill 2008). Since 2003 she has directed the Sikkim Video Archive, a collaborative visual anthropology project producing a documented audio-visual record of indigenous Sikkimese cultures with a focus on ritual. With her local research team she has completed a series of eight ethnographic films on Sikkim’s indigenous Lepcha and Bhutia communities, which have been screened at several film festivals worldwide. She is currently working on a book on the history of Sikkim.
 
-## Larissa Fardelos
-
-Larissa is a Ph.D. student with the Department for the Study of Religion at the University of Toronto. Her research considers women in contemporary and globalizing Buddhist organizations, particularly focusing on the engagements and resistances to transnational feminism, humanitarianism, and women’s empowerment.
-
 ## Frances Garrett
 
 Frances' research has examined the intersections between tantric practice, ritual and occult knowledge and medical theory, and what these tell us about the processes of institutional and ideological change in Tibet. She has also worked on the Tibetan King Gesar epic. Most recently in her teaching, with a team of colleagues and students she has developed an online Classical Tibetan language course, and she is co-founder (with Matt Price) of University of Toronto Outdoors.
@@ -27,6 +23,8 @@ Dakpa has translated and edited numerous articles and books including the “Act
 In 2014, he came to Nova Scotia, Halifax, where he lived for three years working with Nalanda Translation Committee. In April 2017, he moved to Toronto along with his wife and daughter. Currently, he lives in Toronto working with Prof. Frances Garrett; he also works for Nalanda Translation Committee, and the Berzin Archive e.V. as a translator and editor.
 
 ## Faraz Khoshbakhtian
+
+Faraz Khoshbakhtian is currently an undergraduate student of Computer Science and Philosophy at the University of Toronto. He became a part of Himalayan Borderlands team in September of 2018. He is keen in exploring new strategies of improving web literacy around the world.
 
 ## Molly Mignault
 
